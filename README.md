@@ -16,6 +16,6 @@ This code has built-in some data mentioned in our paper[<sup>1</sup>](#refer-id)
 
 ## Reference
 <div id="refer-id"></div>
-[1] Yang W, Min W, et. al. Sparse nonnegative CP decomposition with graph regularization and ℓ0-constraints for clustering. 
+[1] Yang W, Min W. Sparse nonnegative CP decomposition with graph regularization and ℓ0-constraints for clustering. 
 
 [2] Brett W. Bader and Tamara G. Kolda. 2006. Algorithm 862: MATLAB tensor classes for fast algorithm prototyping. ACM Trans. Math. Softw. 32, 4 (December 2006), 635–653. https://doi.org/10.1145/1186785.1186794
