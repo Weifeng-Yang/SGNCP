@@ -12,7 +12,7 @@ warning('off');
 %               when 3∈trigger, enable the SGCP method
 %               when 4∈trigger, enable the GSNTD method
 %               when 5∈trigger, enable the 𝓁0-SNCP method
-%               when 6∈trigger, enable the 𝓁0-GSNCP method
+%               when 6∈trigger, enable the 𝓁0-SGNCP method
 %   percent   ：The proportion of non-zero elements allowed in each decomposition matrix
 %   alphat    : The graph regularization parameter
 %   stopindex : The indicator of the stop condition.  
