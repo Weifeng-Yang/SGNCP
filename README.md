@@ -7,7 +7,7 @@ We also establish the global convergence of our proposed algorithm and analyze t
 This package contains code for the $\ell_0$-SGNCP problem in the paper[<sup>1</sup>](#refer-id). 
 
 ## Matlab code
-A toy example explains how to use the these function. For "L0SGNCP", before running it, first add the toolbox 'tensortoolbox'[<sup>2</sup>](#refer-id) (www.tensortoolbox.org) to the running path of matlab, and then run the function 'main_Run_me'. 
+A toy example explains how to use the these function. For "L0SGNCP", before running it, first add the toolbox 'tensortoolbox'[<sup>2</sup>](#refer-id) (www.tensortoolbox.org) to the running path of matlab, and then run the function '[main_Run_me.m](L0SGNCP/main_Run_me.m)'. 
 
 
 ## Data
